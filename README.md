@@ -1,0 +1,3 @@
+# Oaxaqueando
+Proyecto escolar
+XD
